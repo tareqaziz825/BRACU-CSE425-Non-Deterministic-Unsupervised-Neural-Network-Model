@@ -34,7 +34,7 @@ Key Features
 Setup Instructions
 ------------------
 Launch Jupyter Notebook to explore the code.
-Or, open the CSE425_Project_Code.ipynb file in Google Colab.
+Or, open the **CSE425_Project_Code.ipynb** file in Google Colab.
 
 Usage
 -----
